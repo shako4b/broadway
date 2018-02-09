@@ -17,7 +17,7 @@ h3 {
   color: white;
 }
 .main-banner {
-  background-image: url("file:///D:/Projects/broadway/resources/images/the-flatiron-building.png");
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
 }
 .goto {
   color: white;
@@ -32,7 +32,7 @@ h3 {
   font-size: 14px;
 }
 .sec-banner {
-  background-image: url("file:///D:/Projects/broadway/resources/images/the-flatiron-building.png");
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
 }
 .footer {
   background-color: dimgray;
