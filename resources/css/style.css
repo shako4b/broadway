@@ -5,19 +5,38 @@ body {
 h1 {
   font-size: 70px;
   font-weight: bold;
-  color: coral;
-}
-h2 {
-  font-size: 42px;
   color: white;
 }
-div {
-  display: block;
+h2 {
+  font-size: 32px;
+  font-weight: bold;
 }
-p {
-  color: gray;
-  font-size: 21px;
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
 }
 .main-banner {
   background-image: url("file:///D:/Projects/broadway/resources/images/the-flatiron-building.png");
+}
+.goto {
+  color: white;
+  font-size: 18px;
+  text-decoration: underline;
+}
+.step {
+  font-size: 23px;
+  font-weight: bold;
+}
+.bullet {
+  font-size: 14px;
+}
+.sec-banner {
+  background-image: url("file:///D:/Projects/broadway/resources/images/the-flatiron-building.png");
+}
+.footer {
+  background-color: dimgray;
+  font-size: 11px;
+  color: white;
+  text-align: left;
 }
